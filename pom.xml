@@ -4,7 +4,7 @@
 	<groupId>com.coursecube.springboot</groupId>
 	<artifactId>Lab25</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MyLab25</name>
+	<name>LabRBC</name>
 	<description>Spring Rest Api with swagger</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
