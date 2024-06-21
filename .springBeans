@@ -7,8 +7,6 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.springboot.StartMyBootApp</config>
-		<config>java:com.springboot.JLCWebConfig</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
